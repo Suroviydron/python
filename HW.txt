@@ -1,1 +1,1 @@
-print(" Û Û GeekBrains")
+print("KyKy GeekBrains");
